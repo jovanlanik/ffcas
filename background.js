@@ -6,7 +6,7 @@ function updateTheme(window)
 		{
 			colors:
 			{
-				accentcolor: "#0c0c0c",
+				frame: "#0c0c0c",
 				button_background_active: "#c5c5c5",
 				button_background_hover: "#d5d5d5",
 				icons: "#0c0c0c",
@@ -14,7 +14,7 @@ function updateTheme(window)
 				tab_line: "#f5f5f5",
 				tab_loading: "#163264",
 				tab_text: "#0c0c0c",
-				textcolor: "#f5f5f5",
+				tab_background_text: "#f5f5f5",
 				toolbar: "#f5f5f5",
 				toolbar_bottom_separator: "#f5f5f5",
 				toolbar_field: "#d5d5d5",
@@ -37,7 +37,7 @@ function updateTheme(window)
 		{
 			colors:
 			{
-				accentcolor: "#0a0e12",
+				frame: "#0a0e12",
 				button_background_active: "#2e436e",
 				button_background_hover: "#1c2943",
 				icons: "#cccccc",
@@ -45,7 +45,7 @@ function updateTheme(window)
 				tab_line: "#0a0e12",
 				tab_loading: "#2e436e",
 				tab_text: "#cccccc",
-				textcolor: "#2e436e",
+				tab_background_text: "#2e436e",
 				toolbar: "#0a0e12",
 				toolbar_bottom_separator: "#0a0e12",
 				toolbar_field: "#1c2943",
