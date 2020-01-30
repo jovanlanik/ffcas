@@ -41,7 +41,7 @@
 		"gecko":
 		{
 			"id": "clean@simple.theme",
-			"strict_min_version": "60.0"
+			"strict_min_version": "61.0"
 		}
 	}
 }
