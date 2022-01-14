@@ -1,2 +1,2 @@
 # ffcas
-firefox theme with colors to fit my dotfiles.
+Firefox theme with colors to match my dotfiles.
